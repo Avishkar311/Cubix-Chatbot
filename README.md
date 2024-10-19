@@ -85,8 +85,3 @@ To set up and run Cubix locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve Cubix.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
