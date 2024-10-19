@@ -1,5 +1,7 @@
 # Cubix - AI Chatbot
 
+![Cubix Chatbot Screenshot](./frontend/public/screenshot.png)
+
 Cubix is an intelligent chatbot built using the MERN stack (MongoDB, Express.js, React, and Node.js) integrated with the OpenAI API. It is designed to provide conversational experiences, responding to user inputs and answering queries intelligently.
 
 ## Features
